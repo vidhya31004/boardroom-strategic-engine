@@ -1,0 +1,6 @@
+product,base_price,unit_cost,base_demand,elasticity,max_capacity
+Running Shoes,120,55,12000,-1.4,20000
+Training Shoes,100,50,9000,-1.2,15000
+Performance Apparel,60,25,18000,-0.9,30000
+Smart Fitness Watch,220,140,4500,-1.8,8000
+Recovery Sandals,70,30,7500,-1.1,12000
